@@ -1,4 +1,4 @@
-Hello, I am a data person!
+Hello, I am a data person! Most of my work is present on Dune(data stuff for crypto)
 
 Main work - https://dune.com/yesyes
 
