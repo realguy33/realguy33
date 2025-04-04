@@ -1,6 +1,8 @@
 Hello, I am a data person!
+
 Main work - https://dune.com/yesyes
-Portfolio websote - https://realguy33.github.io/
+
+Portfolio website - https://realguy33.github.io/
 
 
 <!---
