@@ -1,6 +1,8 @@
-Hello, I am a data person! Most of my work is present on Dune(data stuff for crypto)
+Hello, I am a data person!
 
-Main work - https://dune.com/yesyes
+Latest substack article - https://analyzingworld.substack.com/p/exploring-the-most-important-component
+
+web3 work - https://dune.com/yesyes
 
 Portfolio website - https://realguy33.github.io/
 
